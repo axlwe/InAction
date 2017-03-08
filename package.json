@@ -1,6 +1,6 @@
 {
-  "name": "hello-world",
-  "author": "Your Name Here!",
+  "name": "InAction",
+  "author": "Chulwoo Hong",
   "private": true,
   "dependencies": {
     "express": "^4.15.2"
